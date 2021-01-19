@@ -4,7 +4,7 @@
 
 **EVET! FOR DÖNGÜSÜ!**
 * Eminim ki bu tarzda başka bir projeye rastlamamışsınızdır :)
-* Tokenleri for döngsüne sokarak belirttiğiniz kanalsa üyeleri karşılayın!
+* Tokenleri for döngsüne sokarak belirttiğiniz kanalda üyeleri karşılayın!
 
 [Sunucumuzda Deneyin](https://discord.gg/sierra) | [Destek ve yardım için sunucuma katılın](https://discord.gg/github)
 
