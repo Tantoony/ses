@@ -1,6 +1,6 @@
 # Discord Ses Botu
 ## Sunucunuza yeni katılan üyelere hoş geldin demenin başka bir yolu!
-###### Tek dasya'da üyelerinize istediğiniz kadar bo ile karşılayın!
+###### Tek dosya'da üyelerinize istediğiniz kadar bo ile karşılayın!
 
 **EVET! FOR DÖNGÜSÜ!**
 * Eminim ki bu tarzda başka bir projeye rastlamamışsınızdır :)
