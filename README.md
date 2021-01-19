@@ -7,3 +7,5 @@
 * Tokenleri for döngsüne sokarak belirttiğiniz kanalsa üyeleri karşılayın!
 
 [Sunucumuzda Deneyin](https://discord.gg/sierra) | [Destek ve yardım için sunucuma katılın](https://discord.gg/github)
+
+Eklenecek tarih: 20 Ocak 2020
