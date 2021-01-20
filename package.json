@@ -1,0 +1,10 @@
+{
+    "name": "discord-ses-botu",
+    "author": {
+        "name": "Tantoony"
+    },
+    "private": true,
+    "dependencies": {
+        "discord.js": "12.3.1"
+    }
+}
