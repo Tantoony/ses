@@ -15,7 +15,7 @@ const chnls = [
     // KANAL4ID
     // KANAL5ID
 ];
-for (let index = 0; index < 5; index++) {
+for (let index = 0; index < 5; index++) { // 5 yerine token sayısını girin
     const token = tokens[index];
     const client = new Discord.Client();
     client.login(token);
